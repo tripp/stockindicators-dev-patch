@@ -1,0 +1,10 @@
+{
+    "name": "gallery-stockindicators-dev-patch",
+    "builds": {
+        "gallery-stockindicators-dev-patch": {
+            "jsfiles": [
+                "StockIndicatorsDevPatch.js"
+            ]
+        }
+    }
+}
